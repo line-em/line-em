@@ -12,7 +12,7 @@ I work professionally with art and design: graphic design being my bacharel's de
 - 😄 Pronouns: she/her 
 
 <div align="center">
-  <table style="border-collapse:collapse;:>
+  <table style="border-collapse:collapse;">
                 <tr>
   <td valign="top" width="33%">
   
