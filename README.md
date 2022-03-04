@@ -15,12 +15,11 @@ Skills: HTML / CSS / JS
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/line-em)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alineemily/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/line.artsy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/line_artsy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/artstation.svg' alt='artstation' height='40'>](https://www.artstation.com/alineemily)  
-<p align="center">
+<!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=line-em)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=line-em)  
-</p>
-
+---!>
 
 
 
