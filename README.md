@@ -5,7 +5,7 @@
 Here I will be comitting my projects and my studies! 🎉
 I work professionally with art and design: graphic design being my bacharel's degree and the foundation of what I do. I now wish to broaden my horizons!
 
-**Skills:** HTML / CSS / JS
+**Skills:** HTML / CSS
 
 - 🔭 I’m currently working on small projects 
 - 🌱 I’m currently learning **javascript and react.js** 
