@@ -12,7 +12,8 @@ I work professionally with art and design: graphic design being my bacharel's de
 - 😄 Pronouns: she/her 
 
 <div align="center">
-  <table cellspacing="0" cellpadding="0" style="border: none"><tr>
+  <table style="border-collapse:collapse;:>
+                <tr>
   <td valign="top" width="33%">
   
 ### Front-End   
