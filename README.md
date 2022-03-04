@@ -11,6 +11,9 @@ I work professionally with art and design: graphic design being my bacharel's de
 - 🌱 I’m currently learning **javascript and react.js** 
 - 😄 Pronouns: she/her 
 
+
+<!---
+
 <div align="center">
   <table style="border-collapse:collapse;">
                 <tr>
@@ -42,7 +45,6 @@ I work professionally with art and design: graphic design being my bacharel's de
 ### Github Stats  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=line-em&hide_border=true&layout=compact" align="center" /></div>
 
-<!---
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=line-em)](https://github.com/anuraghazra/github-readme-stats)
