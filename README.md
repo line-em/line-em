@@ -3,11 +3,9 @@
 ![I'm currently learning front-end development.✨](https://cdna.artstation.com/p/users/covers/000/863/824/default/c6375184dd298ec4283b8cf7c96c42bb.jpg)
 
 Here I will be comitting my projects and my studies! 🎉
-I work professionally with art and design: graphic design being my bacharel's degree and the foundation of what I do. 
+I work professionally with art and design: graphic design being my bacharel's degree and the foundation of what I do. I now wish to broaden my horizons!
 
-I now wish to broaden my horizons!
-
-Skills: HTML / CSS / JS
+**Skills:** HTML / CSS / JS
 
 - 🔭 I’m currently working on small projects 
 - 🌱 I’m currently learning **javascript and react.js** 
