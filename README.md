@@ -12,7 +12,7 @@ I work professionally with art and design: graphic design being my bacharel's de
 - 😄 Pronouns: she/her 
 
 <div align="center">
-  <table><tr>
+  <table style="border:none"><tr>
   <td valign="top" width="33%">
   
 ### Front-End   
@@ -22,7 +22,9 @@ I work professionally with art and design: graphic design being my bacharel's de
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 </td>
     <td valign="top" width="33%">
+      
 ### Design
+      
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" />  
