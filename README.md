@@ -21,7 +21,8 @@ I work professionally with art and design: graphic design being my bacharel's de
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" />  
 </div>
-</td><td valign="top" width="33%">
+</td>
+<td valign="top" width="33%">
   
 ### Front-End  
 <div align="center">  
@@ -49,6 +50,7 @@ I work professionally with art and design: graphic design being my bacharel's de
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </td></tr></table>  
+
 ### Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=line-em&hide_border=true&layout=compact" align="center" /></div>
 
