@@ -11,7 +11,8 @@ I work professionally with art and design: graphic design being my bacharel's de
 - 🌱 I’m currently learning **javascript and react.js** 
 - 😄 Pronouns: she/her 
 
-
+### Github Stats  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=line-em&hide_border=true&layout=compact" align="center" />
 <!---
 
 <div align="center">
@@ -42,8 +43,7 @@ I work professionally with art and design: graphic design being my bacharel's de
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/line-em)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alineemily/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/line.artsy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/line_artsy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/artstation.svg' alt='artstation' height='40'>](https://www.artstation.com/alineemily)  
 </td></tr></table>  
 
-### Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=line-em&hide_border=true&layout=compact" align="center" /></div>
+</div>
 
 
 
