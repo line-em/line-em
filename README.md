@@ -1,5 +1,5 @@
-## Hi there, I'm Aline Emily! 👋
-### I'm a front-end developer, a cat and tea lover, and a digital artist. ✨
+# Hi there, I'm Aline Emily! 👋
+## I'm a front-end developer, a cat and tea lover, and a digital artist. ✨
 
 ![I'm currently learning front-end development.✨](https://cdna.artstation.com/p/users/covers/000/863/824/default/c6375184dd298ec4283b8cf7c96c42bb.jpg)
 
