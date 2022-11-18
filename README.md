@@ -3,13 +3,14 @@
 
 ![I'm currently learning front-end development.✨](https://cdna.artstation.com/p/users/covers/000/863/824/default/c6375184dd298ec4283b8cf7c96c42bb.jpg)
 
-Here I will be comitting my projects and my studies 🎉
-Currently, I work professionally with art and design: graphic design being my bacharel's degree and the foundation of what I do. However, **I'm in love with front-end development** and I'm looking for a career change! 😊
+**Please check out my [Portfolio](https://line-em.github.io/portfolio/)!** 🎉
+**I'm in love with front-end development** and I'm looking for a career change. Please feel free to contact me! ✉️
 
-**Current Skills:** HTML / CSS / JS / React
+**Current Skills:** HTML5 / CSS3 / JS / **React** / REST API / Styled-Components
+**I use:** Vite / Yarn / VS Code (But I have no problem using other tools too!)
 
-- 🔭 I’m currently working on my portfolio
-- 🌱 I’m currently learning **javascript and react.js** 
+- 🔭 I’m currently working on my DnD Project! And I intend to redo my Netflix project now that I'm more knowledgable.
+- 🌱 I’m currently learning **React** and **Firebase**
 - 😄 Pronouns: she/her 
 
 ### Github Stats  
