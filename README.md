@@ -7,6 +7,8 @@
 
 **I'm in love with front-end development** and I'm looking for a career change. Please feel free to contact me 🥰✉️
 
+---
+
 **Current Skills:** HTML5 / CSS3 / JS / **React** / REST API / Styled-Components
 
 **I use:** Vite / Yarn / VS Code (But I have no problem using other tools too!)
