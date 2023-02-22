@@ -3,7 +3,7 @@
 
 ![I'm currently learning front-end development.✨](https://cdna.artstation.com/p/users/covers/000/863/824/default/c6375184dd298ec4283b8cf7c96c42bb.jpg)
 
-**Please check out my [Portfolio](https://line-em.github.io/portfolio/)!** 🎉
+**Please check out my [Portfolio](https://line-em-portfolio.netlify.app/)!** 🎉
 
 **I'm in love with front-end development** and I'm looking for a career change. Please feel free to contact me 🥰✉️
 
