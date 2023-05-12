@@ -8,20 +8,22 @@
 I'm super excited with front-end development and I'm looking for a career change. Please feel free to contact me ✉️
 
 ---
+### Tech Stack
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,git,astro,styledcomponents,tailwind" />
+</p>
+I've also used Firebase, MONGOdb, nodejs, etc in some projects, and I'm always eager to learn more! Currently interested in learning more of Nextjs, Typescript and testing.
 
-**Current Skills:** HTML5 / CSS3 / JS / **React** / REST APIs / Styled-Components
-
-**I use:** Vite / Yarn or NPM / VS Code / GIT (But I have no problem using other tools too!)
-
-- 🔭 Although I used them briefly, I have some familiarity with Firebase and Tailwind.
-- 🌱 I’m currently learning **Typescript**
-- 😄 Pronouns: she/her 
+### Design
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=ae,ai,ps,pr" />
+</p>
 
 ### Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=line-em&hide_border=true&layout=compact" align="center" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=line-em&hide_border=true&layout=compact" /></p>
 
 ### Socials  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/line-em)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alineemily/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/line.artsy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/line_artsy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/artstation.svg' alt='artstation' height='40'>](https://www.artstation.com/alineemily)  
+[<img src='https://skillicons.dev/icons?i=github' alt='github' height='40'>](https://github.com/line-em)  [<img src='https://skillicons.dev/icons?i=linkedin' alt='linkedin' height='40'>](https://www.linkedin.com/in/alineemily/)  [<img src='https://skillicons.dev/icons?i=instagram' alt='instagram' height='40'>](https://www.instagram.com/line.artsy/)  [<img src='https://skillicons.dev/icons?i=twitter' alt='twitter' height='40'>](https://twitter.com/line_artsy)  [<img src='https://cdn.worldvectorlogo.com/logos/artstation-1.svg' alt='artstation' height='40'>](https://www.artstation.com/alineemily)  
 </td></tr></table>  
 <!---
 
