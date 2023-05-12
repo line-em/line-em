@@ -17,7 +17,7 @@ I'm super excited with front-end development and I'm looking for a career change
 
 <br />
 
-I've also used Firebase, mongoDB and mongoDB briefy, and I'm always eager to learn more! Currently interested in learning more of Nextjs, Typescript and testing. 
+I've also used Firebase, mongoDB and node.js briefy, and I'm always eager to learn more! Currently interested in learning more of Nextjs, Typescript and testing. 
 
 <br />
 
