@@ -24,61 +24,7 @@ I've also used Firebase, mongoDB and mongoDB briefy, and I'm always eager to lea
 
 ### Socials  
 <p align="center">
-   
-	<a href="https://github.com/line-em"
-							target="_blank"
-							rel="noopener noreferrer"
-						>
-							<img
-								src="https://skillicons.dev/icons?i=github"
-								alt="github"
-								height="40"
-							/>
-						</a>
-						<a
-							href="https://www.linkedin.com/in/alineemily/"
-							target="_blank"
-							rel="noopener noreferrer"
-						>
-							<img
-								src="https://skillicons.dev/icons?i=linkedin"
-								alt="linkedin"
-								height="40"
-							/>
-						</a>
-						<a
-							href="https://www.instagram.com/line.artsy/"
-							target="_blank"
-							rel="noopener noreferrer"
-						>
-							<img
-								src="https://skillicons.dev/icons?i=instagram"
-								alt="instagram"
-								height="40"
-							/>
-						</a>
-						<a
-							href="https://twitter.com/line_artsy"
-							target="_blank"
-							rel="noopener noreferrer"
-						>
-							<img
-								src="https://skillicons.dev/icons?i=twitter"
-								alt="twitter"
-								height="40"
-							/>
-						</a>
-						<a
-							href="https://www.artstation.com/alineemily"
-							target="_blank"
-							rel="noopener noreferrer"
-						>
-							<img
-								src="https://cdn.worldvectorlogo.com/logos/artstation-1.svg"
-								alt="artstation"
-								height="40"
-							/>
-						</a>
+    [![github](https://skillicons.dev/icons?i=github)](https://github.com/line-em)[![linkedin](https://skillicons.dev/icons?i=linkedin) ](https://www.linkedin.com/in/alineemily/)[![instagram](https://skillicons.dev/icons?i=instagram) ](https://www.instagram.com/line.artsy/)[![twitter](https://skillicons.dev/icons?i=twitter) ](https://twitter.com/line_artsy)[![artstation](https://cdn.worldvectorlogo.com/logos/artstation-1.svg)](https://www.artstation.com/alineemily)
 </p>
 <!---
 
