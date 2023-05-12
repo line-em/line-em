@@ -1,7 +1,5 @@
-<p align="center">
 # Hi there, I'm Aline Emily! 👋
 ## I'm a front-end developer, a cat and tea lover, and a designer.
-
 <!-- ![I'm currently learning front-end development.✨](https://cdna.artstation.com/p/users/covers/000/863/824/default/c6375184dd298ec4283b8cf7c96c42bb.jpg) -->
 
 **Please check out my [Portfolio](https://line-em-portfolio.netlify.app/)!** 🎉
@@ -10,14 +8,18 @@ I'm super excited with front-end development and I'm looking for a career change
 
 ---
 ### Tech Stack
+<p align="center">
     <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,git,astro,styledcomponents,tailwind" />
 I've also used Firebase, mongoDB and mongoDB briefy, and I'm always eager to learn more! Currently interested in learning more of Nextjs, Typescript and testing.
-
+</p>
 ### Design
+<div align="center">
     <img src="https://skillicons.dev/icons?i=ae,ai,ps,pr" />
-	
+	</p>
 ### Github Stats  
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=line-em&hide_border=true&show_icons=true&theme=radical" />
+	</p>
 
 ### Socials  
 [![github](https://skillicons.dev/icons?i=github)](https://github.com/line-em)
@@ -35,7 +37,7 @@ I've also used Firebase, mongoDB and mongoDB briefy, and I'm always eager to lea
 								height="40"
 							/>
 						</a>
-	</p>
+</p>
 <!---
 
 <div align="center">
