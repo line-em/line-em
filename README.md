@@ -28,6 +28,9 @@ I've also used Firebase, mongoDB and mongoDB briefy, and I'm always eager to lea
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=line-em&hide_border=true&show_icons=true&theme=radical&layout=donut" />
     </p>
+    <p align="center">
+<img src="https://streak-stats.demolab.com/demo/?user=line-em&theme=radical&hide_border=true&border_radius=4.5&locale=en&date_format=&mode=weekly&exclude_days=&type=svg&card_width=450&background-type=solid&properties=background" />
+    </p>
 
 ### Socials
 
