@@ -23,8 +23,9 @@ I've also used Firebase, mongoDB and mongoDB briefy, and I'm always eager to lea
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=line-em&hide_border=true&layout=compact" /></p>
 
 ### Socials  
-[<img src='https://skillicons.dev/icons?i=github' alt='github' height='40'>](https://github.com/line-em)  [<img src='https://skillicons.dev/icons?i=linkedin' alt='linkedin' height='40'>](https://www.linkedin.com/in/alineemily/)  [<img src='https://skillicons.dev/icons?i=instagram' alt='instagram' height='40'>](https://www.instagram.com/line.artsy/)  [<img src='https://skillicons.dev/icons?i=twitter' alt='twitter' height='40'>](https://twitter.com/line_artsy)  [<img src='https://cdn.worldvectorlogo.com/logos/artstation-1.svg' alt='artstation' height='40'>](https://www.artstation.com/alineemily) 
+<p align="center">[<img src='https://skillicons.dev/icons?i=github' alt='github' height='40'>](https://github.com/line-em)  [<img src='https://skillicons.dev/icons?i=linkedin' alt='linkedin' height='40'>](https://www.linkedin.com/in/alineemily/)  [<img src='https://skillicons.dev/icons?i=instagram' alt='instagram' height='40'>](https://www.instagram.com/line.artsy/)  [<img src='https://skillicons.dev/icons?i=twitter' alt='twitter' height='40'>](https://twitter.com/line_artsy)  [<img src='https://cdn.worldvectorlogo.com/logos/artstation-1.svg' alt='artstation' height='40'>](https://www.artstation.com/alineemily) 
 </td></tr></table>
+</p>
 <!---
 
 <div align="center">
