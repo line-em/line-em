@@ -20,10 +20,65 @@ I've also used Firebase, mongoDB and mongoDB briefy, and I'm always eager to lea
 </p>
 
 ### Github Stats  
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=line-em&hide_border=true&layout=compact" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=line-em&hide_border=true&layout=compact&show_icons=true&theme=radical" /></p>
 
 ### Socials  
-<p align="center">[<img src='https://skillicons.dev/icons?i=github' alt='github' height='40'>](https://github.com/line-em)  [<img src='https://skillicons.dev/icons?i=linkedin' alt='linkedin' height='40'>](https://www.linkedin.com/in/alineemily/)  [<img src='https://skillicons.dev/icons?i=instagram' alt='instagram' height='40'>](https://www.instagram.com/line.artsy/)  [<img src='https://skillicons.dev/icons?i=twitter' alt='twitter' height='40'>](https://twitter.com/line_artsy)  [<img src='https://cdn.worldvectorlogo.com/logos/artstation-1.svg' alt='artstation' height='40'>](https://www.artstation.com/alineemily) 
+<p align="center">
+   
+	<a href="https://github.com/line-em"
+							target="_blank"
+							rel="noopener noreferrer"
+						>
+							<img
+								src="https://skillicons.dev/icons?i=github"
+								alt="github"
+								height="40"
+							/>
+						</a>
+						<a
+							href="https://www.linkedin.com/in/alineemily/"
+							target="_blank"
+							rel="noopener noreferrer"
+						>
+							<img
+								src="https://skillicons.dev/icons?i=linkedin"
+								alt="linkedin"
+								height="40"
+							/>
+						</a>
+						<a
+							href="https://www.instagram.com/line.artsy/"
+							target="_blank"
+							rel="noopener noreferrer"
+						>
+							<img
+								src="https://skillicons.dev/icons?i=instagram"
+								alt="instagram"
+								height="40"
+							/>
+						</a>
+						<a
+							href="https://twitter.com/line_artsy"
+							target="_blank"
+							rel="noopener noreferrer"
+						>
+							<img
+								src="https://skillicons.dev/icons?i=twitter"
+								alt="twitter"
+								height="40"
+							/>
+						</a>
+						<a
+							href="https://www.artstation.com/alineemily"
+							target="_blank"
+							rel="noopener noreferrer"
+						>
+							<img
+								src="https://cdn.worldvectorlogo.com/logos/artstation-1.svg"
+								alt="artstation"
+								height="40"
+							/>
+						</a>
 </td></tr></table>
 </p>
 <!---
