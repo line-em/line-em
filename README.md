@@ -1,5 +1,5 @@
 <div align="center">
-    <h1 style="color: #F834BBFF; font-weight: bold">Hi there, I'm Aline Emily! 👋</h1>
+    <h1 style="color: #F834BBFF !important; font-weight: bold">Hi there, I'm Aline Emily! 👋</h1>
     <img src="https://readme-typing-svg.demolab.com?font=Dank+Mono&size=18&pause=1000&color=F834BB&center=true&width=435&lines=A+Front-End+Developer+and+a+cat+lover+😺" alt="Typing SVG" />
 
 I'm super excited with front-end development and I'm looking for a career change. Please feel free to contact me ✉️
