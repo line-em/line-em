@@ -37,7 +37,7 @@ I've also used Firebase, mongoDB and mongoDB briefy, and I'm always eager to lea
 
 <img src="https://skillicons.dev/icons?i=ae,ai,ps,pr" />
 
-<br /><br />
+<br />
 
 <h1 style="color: #F834BBFF; font-weight: bold">Socials</h1>
 
