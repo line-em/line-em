@@ -99,4 +99,5 @@ I've also used Firebase, mongoDB and node.js briefy, and I'm always eager to lea
     </a>
 </div>
     <br />
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat Face" width="25" height="25" />
 </div>
