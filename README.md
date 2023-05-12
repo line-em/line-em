@@ -10,10 +10,11 @@ I'm super excited with front-end development and I'm looking for a career change
 ### Tech Stack
 <p align="center">
     <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,git,astro,styledcomponents,tailwind" />
+	</p>
 I've also used Firebase, mongoDB and mongoDB briefy, and I'm always eager to learn more! Currently interested in learning more of Nextjs, Typescript and testing.
-</p>
+
 ### Design
-<div align="center">
+<p align="center">
     <img src="https://skillicons.dev/icons?i=ae,ai,ps,pr" />
 	</p>
 ### Github Stats  
@@ -22,6 +23,7 @@ I've also used Firebase, mongoDB and mongoDB briefy, and I'm always eager to lea
 	</p>
 
 ### Socials  
+<div align="center">
 [![github](https://skillicons.dev/icons?i=github)](https://github.com/line-em)
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alineemily/)
 [![instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/line.artsy/)
@@ -37,7 +39,7 @@ I've also used Firebase, mongoDB and mongoDB briefy, and I'm always eager to lea
 								height="40"
 							/>
 						</a>
-</p>
+</div>
 <!---
 
 <div align="center">
