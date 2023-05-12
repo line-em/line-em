@@ -12,7 +12,7 @@ I'm super excited with front-end development and I'm looking for a career change
 <p align="center">
     <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,git,astro,styledcomponents,tailwind" />
 </p>
-I've also used Firebase, MONGOdb, nodejs, etc in some projects, and I'm always eager to learn more! Currently interested in learning more of Nextjs, Typescript and testing.
+I've also used Firebase, mongoDB and mongoDB briefy, and I'm always eager to learn more! Currently interested in learning more of Nextjs, Typescript and testing.
 
 ### Design
 <p align="center">
@@ -23,8 +23,8 @@ I've also used Firebase, MONGOdb, nodejs, etc in some projects, and I'm always e
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=line-em&hide_border=true&layout=compact" /></p>
 
 ### Socials  
-[<img src='https://skillicons.dev/icons?i=github' alt='github' height='40'>](https://github.com/line-em)  [<img src='https://skillicons.dev/icons?i=linkedin' alt='linkedin' height='40'>](https://www.linkedin.com/in/alineemily/)  [<img src='https://skillicons.dev/icons?i=instagram' alt='instagram' height='40'>](https://www.instagram.com/line.artsy/)  [<img src='https://skillicons.dev/icons?i=twitter' alt='twitter' height='40'>](https://twitter.com/line_artsy)  [<img src='https://cdn.worldvectorlogo.com/logos/artstation-1.svg' alt='artstation' height='40'>](https://www.artstation.com/alineemily)  
-</td></tr></table>  
+<p align="center">
+[<img src='https://skillicons.dev/icons?i=github' alt='github' height='40'>](https://github.com/line-em)  [<img src='https://skillicons.dev/icons?i=linkedin' alt='linkedin' height='40'>](https://www.linkedin.com/in/alineemily/)  [<img src='https://skillicons.dev/icons?i=instagram' alt='instagram' height='40'>](https://www.instagram.com/line.artsy/)  [<img src='https://skillicons.dev/icons?i=twitter' alt='twitter' height='40'>](https://twitter.com/line_artsy)  [<img src='https://cdn.worldvectorlogo.com/logos/artstation-1.svg' alt='artstation' height='40'>](https://www.artstation.com/alineemily) </p>
 <!---
 
 <div align="center">
