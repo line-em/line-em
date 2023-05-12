@@ -1,3 +1,4 @@
+<p align="center">
 # Hi there, I'm Aline Emily! 👋
 ## I'm a front-end developer, a cat and tea lover, and a designer.
 
@@ -9,20 +10,14 @@ I'm super excited with front-end development and I'm looking for a career change
 
 ---
 ### Tech Stack
-<p align="center">
     <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,git,astro,styledcomponents,tailwind" />
-</p>
 I've also used Firebase, mongoDB and mongoDB briefy, and I'm always eager to learn more! Currently interested in learning more of Nextjs, Typescript and testing.
 
 ### Design
-<p align="center">
     <img src="https://skillicons.dev/icons?i=ae,ai,ps,pr" />
-</p>
-
+	
 ### Github Stats  
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=line-em&hide_border=true&show_icons=true&theme=radical" />
-	<img src=https://github-readme-stats.vercel.app/api?username=line-em&hide=contribs,prs&hide_border=true&show_icons=true&theme=radical" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=line-em&hide_border=true&show_icons=true&theme=radical" />
 
 ### Socials  
 [![github](https://skillicons.dev/icons?i=github)](https://github.com/line-em)
@@ -40,6 +35,7 @@ I've also used Firebase, mongoDB and mongoDB briefy, and I'm always eager to lea
 								height="40"
 							/>
 						</a>
+	</p>
 <!---
 
 <div align="center">
