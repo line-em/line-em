@@ -20,7 +20,7 @@ I've also used Firebase, mongoDB and mongoDB briefy, and I'm always eager to lea
 </p>
 
 ### Github Stats  
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=line-em&hide_border=true&layout=compact&show_icons=true&theme=radical" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=line-em&hide_border=true&show_icons=true&theme=radical" /></p>
 
 ### Socials  
 <p align="center">
@@ -79,7 +79,6 @@ I've also used Firebase, mongoDB and mongoDB briefy, and I'm always eager to lea
 								height="40"
 							/>
 						</a>
-</td></tr></table>
 </p>
 <!---
 
