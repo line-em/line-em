@@ -23,13 +23,15 @@ I've also used Firebase, mongoDB and mongoDB briefy, and I'm always eager to lea
     <img src="https://skillicons.dev/icons?i=ae,ai,ps,pr" />
 	</p>
 	
-### Github Stats  
+### Github Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=line-em&hide_border=true&show_icons=true&theme=radical&layout=donut" />
     </p>
-    
-[![GitHub Streak](https://streak-stats.demolab.com?user=line-em&theme=radical&hide_border=true&mode=weekly&card_width=450)](https://git.io/streak-stats)
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=line-em&theme=radical&hide_border=true&mode=weekly&card_width=450" />
+    </p>
 
 ### Socials
 
@@ -67,26 +69,26 @@ I've also used Firebase, mongoDB and mongoDB briefy, and I'm always eager to lea
 								height="40"
 							/>
 						</a>
-						<a
-							href="https://twitter.com/line_artsy"
-							target="_blank"
-							rel="noopener noreferrer"
-						>
-							<img
-								src="https://skillicons.dev/icons?i=twitter"
-								alt="twitter"
-								height="40"
-							/>
-						</a>
+        <a
+            href="https://twitter.com/line_artsy"
+            target="_blank"
+            rel="noopener noreferrer"
+        >
+        <img
+            src="https://skillicons.dev/icons?i=twitter"
+            alt="twitter"
+            height="40"
+        />
+    </a>
 <a
-							href="https://www.artstation.com/alineemily"
-							target="_blank"
-							rel="noopener noreferrer"
-						>
+    href="https://www.artstation.com/alineemily"
+    target="_blank"
+    rel="noopener noreferrer"
+>
 <img
-								src="https://cdn.worldvectorlogo.com/logos/artstation-1.svg"
-								alt="artstation"
-								height="40"
-							/>
+    src="https://cdn.worldvectorlogo.com/logos/artstation-1.svg"
+    alt="artstation"
+    height="40"
+/>
 </a>
 </p>
