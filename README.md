@@ -22,7 +22,9 @@ I've also used Firebase, mongoDB and mongoDB briefy, and I'm always eager to lea
 <p align="center">
     <img src="https://skillicons.dev/icons?i=ae,ai,ps,pr" />
 	</p>
+	
 ### Github Stats  
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=line-em&hide_border=true&show_icons=true&theme=radical&layout=donut" />
     </p>
