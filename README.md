@@ -20,7 +20,9 @@ I've also used Firebase, mongoDB and mongoDB briefy, and I'm always eager to lea
 </p>
 
 ### Github Stats  
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=line-em&hide_border=true&show_icons=true&theme=radical" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=line-em&hide_border=true&show_icons=true&theme=radical" />
+![Line's GitHub stats](https://github-readme-stats.vercel.app/api?username=line-em&hide=contribs,prs&hide_border=true&show_icons=true&theme=radical)
+</p>
 
 ### Socials  
 [![github](https://skillicons.dev/icons?i=github)](https://github.com/line-em)
