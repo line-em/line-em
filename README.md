@@ -27,7 +27,17 @@ I've also used Firebase, mongoDB and mongoDB briefy, and I'm always eager to lea
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alineemily/)
 [![instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/line.artsy/)
 [![twitter](https://skillicons.dev/icons?i=twitter) ](https://twitter.com/line_artsy)
-[![artstation](https://cdn.worldvectorlogo.com/logos/artstation-1.svg)](https://www.artstation.com/alineemily)
+				<a
+							href="https://www.artstation.com/alineemily"
+							target="_blank"
+							rel="noopener noreferrer"
+						>
+							<img
+								src="https://cdn.worldvectorlogo.com/logos/artstation-1.svg"
+								alt="artstation"
+								height="40"
+							/>
+						</a>
 <!---
 
 <div align="center">
