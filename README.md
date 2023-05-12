@@ -19,13 +19,6 @@ I've also used Firebase, mongoDB and mongoDB briefy, and I'm always eager to lea
 
 <br />
 
-<h1 style="color: #F834BBFF; font-weight: bold">Design</h1>
-
-
-<img src="https://skillicons.dev/icons?i=ae,ai,ps,pr" />
-
-<br />
-
 <h1 style="color: #F834BBFF; font-weight: bold">Github Stats</h1>
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; align-items: center">
@@ -34,6 +27,13 @@ I've also used Firebase, mongoDB and mongoDB briefy, and I'm always eager to lea
 <img src="https://streak-stats.demolab.com?user=line-em&theme=radical&hide_border=true&mode=weekly&card_width=450" />
 
 </div>
+
+<br />
+    
+<h1 style="color: #F834BBFF; font-weight: bold">Design</h1>
+
+
+<img src="https://skillicons.dev/icons?i=ae,ai,ps,pr" />
 
 <br />
 
