@@ -6,7 +6,6 @@
 
 [![ 💖 - Portfolio](https://img.shields.io/static/v1?label=+💖&message=Portfolio&color=F834BB&style=for-the-badge)](https://line-em-portfolio.netlify.app)
     
-<br />
 
 <h1 style="color: #F834BBFF; font-weight: bold">Tech Stack</h1>
 
