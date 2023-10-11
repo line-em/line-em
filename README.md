@@ -3,6 +3,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Dank+Mono&size=18&pause=1000&color=F834BB&center=true&width=435&lines=A+Front-End+Developer+and+a+cat+lover+😺" alt="Typing SVG" />
     <br/>
 <!-- [![ 💖 - Portfolio](https://img.shields.io/static/v1?label=+💖&message=Portfolio&color=F834BB&style=for-the-badge)](https://line-em-portfolio.netlify.app) -->
+
+[![ 💖 - Portfolio](https://img.shields.io/static/v1?label=+💖&message=Portfolio&color=F834BB&style=for-the-badge)](https://line-em-portfolio.netlify.app)
     
 <br />
 
