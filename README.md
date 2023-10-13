@@ -17,8 +17,6 @@
 <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; align-items: center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=line-em&hide_border=true&show_icons=true&theme=radical&layout=donut" />
 
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=line-em&theme=radical&hide_border=true&mode=weekly&card_width=450" />
 
 </div>
