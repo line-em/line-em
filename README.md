@@ -7,19 +7,17 @@
 [![ 💖 - Portfolio](https://img.shields.io/static/v1?label=+💖&message=Portfolio&color=F834BB&style=for-the-badge)](https://line-em-portfolio.netlify.app)
     
 
-<h1 style="color: #F834BBFF; font-weight: bold">Tech Stack</h1>
+<h2 style="color: #F834BBFF; font-weight: bold">Tech Stack</h1>
 
 <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,git,astro,styledcomponents,tailwind" />
 
 <br />
-Currently interested in learning more of Nextjs, Typescript and testing. 
-
-<br />
-
-<h1 style="color: #F834BBFF; font-weight: bold">Github Stats</h1>
+<h2 style="color: #F834BBFF; font-weight: bold">Github Stats</h1>
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; align-items: center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=line-em&hide_border=true&show_icons=true&theme=radical&layout=donut" />
+
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=line-em&theme=radical&hide_border=true&mode=weekly&card_width=450" />
 
