@@ -24,6 +24,9 @@
 </div>
 
 <br />
+
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat Face" width="25" height="25" />
+</div>
     
 <!--- <h1 style="color: #F834BBFF; font-weight: bold">Design</h1>
 
@@ -92,7 +95,3 @@
     </a>
 </div>
 --->
-
-    <br />
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat Face" width="25" height="25" />
-</div>
