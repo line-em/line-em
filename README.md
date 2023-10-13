@@ -2,7 +2,7 @@
     <h1 style="color: #F834BBFF !important; font-weight: bold">Hi there, I'm Aline Emily! 👋</h1>
     <img src="https://readme-typing-svg.demolab.com?font=Dank+Mono&size=18&pause=1000&color=F834BB&center=true&width=435&lines=A+Front-End+Developer+and+a+cat+lover+😺" alt="Typing SVG" />
     <br/>
-<!-- [![ 💖 - Portfolio](https://img.shields.io/static/v1?label=+💖&message=Portfolio&color=F834BB&style=for-the-badge)](https://line-em-portfolio.netlify.app) -->
+    <!-- [![ 💖 - Portfolio](https://img.shields.io/static/v1?label=+💖&message=Portfolio&color=F834BB&style=for-the-badge)](https://line-em-portfolio.netlify.app) -->
 
 [![ 💖 - Portfolio](https://img.shields.io/static/v1?label=+💖&message=Portfolio&color=F834BB&style=for-the-badge)](https://line-em-portfolio.netlify.app)
     
@@ -11,7 +11,7 @@
 
 <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,git,astro,styledcomponents,tailwind" />
 
-<br />
+
 <h2 style="color: #F834BBFF; font-weight: bold">Github Stats</h1>
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; align-items: center">
@@ -22,8 +22,6 @@
 <img src="https://streak-stats.demolab.com?user=line-em&theme=radical&hide_border=true&mode=weekly&card_width=450" />
 
 </div>
-
-<br />
 
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat Face" width="25" height="25" />
     
