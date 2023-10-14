@@ -3,7 +3,7 @@
     
 [![ 💖 - My Portfolio](https://img.shields.io/badge/v1?message=Portfolio&color=cba6f7&style=for-the-badge)](https://line-em-portfolio.netlify.app)
 
-![Static Badge](https://img.shields.io/badge/My%20Portfolio?style=plastic&color=cba6f7)
+![Static Badge](https://img.shields.io/badge/My%20Portfolio?style=plastic&color=#cba6f7)
 
 
 
