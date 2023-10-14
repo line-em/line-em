@@ -1,7 +1,7 @@
 <div align="center">     
     <h1 style="color: #F834BBFF !important; font-weight: bold">Hi there, I'm Aline! 👋</h1>    
     
-![Static Badge](https://img.shields.io/badge/My Portfolio-00C7B7.svg?style=for-the-badge&logoColor=white)
+![Static Badge](https://img.shields.io/badge/MyPortfolio-00C7B7.svg?style=for-the-badge&logoColor=white)
 
 
     
