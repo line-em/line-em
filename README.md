@@ -9,9 +9,10 @@
 
 <h2 style="color: #F834BBFF; font-weight: bold">Skills</h1>
 
-<img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,astro" /> 
-<br/>
 <strong>Currently Studying</strong>: Java, JUnit.
+<br/>
+<img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,astro" /> 
+
 
 <!-- tirei o git, tailwind e styled components -->
 
