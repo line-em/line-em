@@ -17,7 +17,7 @@
 
 <div style="display: flex; gap: 10px; justify-content: center; align-items: center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=line-em&theme=omni) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=line-em&theme=omni) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=line-em&theme=omni) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=line-em&theme=omni)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=line-em&theme=omni) 
 
 </div>
