@@ -7,7 +7,7 @@
 [![ 💖 - Portfolio](https://img.shields.io/static/v1?label=+💖&message=Portfolio&color=F834BB&style=for-the-badge)](https://line-em-portfolio.netlify.app)
     
 
-<h3 style="color: #F834BBFF; font-weight: bold">Skills</h1>
+<h2 style="color: #F834BBFF; font-weight: bold">Skills</h1>
 
 <strong>Currently Studying</strong>: Java, JUnit.
 <br/>
@@ -17,14 +17,14 @@
 
 <!-- tirei o git, tailwind e styled components -->
 
-<h3 style="color: #F834BBFF; font-weight: bold">Github Stats</h1>
+<h32 style="color: #F834BBFF; font-weight: bold">Github Stats</h1>
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; align-items: center">
+<!-- <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; align-items: center -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=line-em&hide_border=true&show_icons=true&theme=radical&layout=compact" />
 
 <img src="https://streak-stats.demolab.com?user=line-em&theme=radical&hide_border=true&mode=weekly&card_width=450" />
 
-</div>
+<!-- </div> -->
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat Face" width="25" height="25" />
     
