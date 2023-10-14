@@ -1,6 +1,7 @@
 <div align="center">     
     <h1 style="color: #cba6f7 !important; font-weight: bold">Hi there! 👋</h1>    
     I'm Aline Emily, a front-end developer currently studying Java and JUnit! 💪🏼
+    <br />
     Please feel free to check out <a href="https://line-em-portfolio.netlify.app" about="_blank">my portfolio!</a> 💖
 
 
