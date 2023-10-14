@@ -1,17 +1,8 @@
 <div align="center">     
     <h1 style="color: #F834BBFF !important; font-weight: bold">Hi there, I'm Aline! 👋</h1>    
     
-[![ 💖 - Portfolio](https://img.shields.io/static/v1?label=+💖&message=Portfolio&color=F834BB&style=for-the-badge)](https://line-em-portfolio.netlify.app)
+[![ 💖 - My Portfolio](https://img.shields.io/static/v1?label=+💖&message=Portfolio&color=F834BB&style=for-the-badge)](https://line-em-portfolio.netlify.app)
 
-    
-<h2 style="color: #F834BBFF; font-weight: bold">Skills</h1>
-
-<strong>Currently Studying</strong>: Java, JUnit.
-<br/>
-<br/>
-<img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,astro" />
-
-<!-- tirei o git, tailwind e styled components -->
 
 <h2 style="color: #F834BBFF; font-weight: bold">Github Stats</h1>
 
@@ -28,6 +19,9 @@
 <br />
 <img src="https://streak-stats.demolab.com?user=line-em&theme=radical&hide_border=true&mode=weekly&card_width=450" /> -->
 <!-- </div> -->
+<img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,astro" />
+
+<!-- tirei o git, tailwind e styled components -->
 <br />
 <br />
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat Face" width="25" height="25" />
