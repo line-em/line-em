@@ -19,10 +19,10 @@
 <br />
 <img src="https://streak-stats.demolab.com?user=line-em&theme=radical&hide_border=true&mode=weekly&card_width=450" /> -->
 <!-- </div> -->
+<br />
 <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,astro" />
 
 <!-- tirei o git, tailwind e styled components -->
-<br />
 <br />
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat Face" width="25" height="25" />
     
