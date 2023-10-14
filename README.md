@@ -6,11 +6,11 @@
 
 <h2 style="color: #F834BBFF; font-weight: bold">Github Stats</h1>
 
-
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=line-em&hide_border=true&show_icons=true&theme=radical&layout=donut" /> <img src="https://streak-stats.demolab.com?user=line-em&theme=radical&hide_border=true&mode=weekly&card_width=450" />
+ <img src="(https://github-readme-stats.vercel.app/api?username=line-em&rank_icon=github&hide=stars&show_icons=true&theme=radical" /> <img src="https://streak-stats.demolab.com?user=line-em&theme=radical&hide_border=true&mode=weekly&card_width=450" />
 
 <!-- 
 <div style="display: flex; gap: 20px; justify-content: center; align-items: center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=line-em&hide_border=true&show_icons=true&theme=radical&layout=donut" />
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=line-em&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=line-em&theme=omni) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=line-em&theme=radical)
