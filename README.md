@@ -1,8 +1,8 @@
 <div align="center">     
     <h1 style="color: #F834BBFF !important; font-weight: bold">Hi there, I'm Aline! 👋</h1>    
     
-![Static Badge](https://img.shields.io/badge/:badgeContent?label=%F0%9F%92%96&color=%23F834BB&link=https%3A%2F%2Fline-em-portfolio.netlify.app)
-<img src="https://img.shields.io/badge/Portfolio-8A2BE2" />
+![Static Badge](https://img.shields.io/badge/My Portfolio-00C7B7.svg?style=for-the-badge&logoColor=white)
+
 
     
 <h2 style="color: #F834BBFF; font-weight: bold">Skills</h1>
