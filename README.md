@@ -6,7 +6,7 @@
 
 <h2 style="color: #F834BBFF; font-weight: bold">Github Stats</h1>
 
- <img src="https://github-readme-stats.vercel.app/api?username=line-em&rank_icon=github&show_icons=true&theme=radical&hide=stars&line_height=24" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=line-em&hide_border=true&show_icons=true&theme=radical&layout=compact" />
+ <img src="https://github-readme-stats.vercel.app/api?username=line-em&rank_icon=github&show_icons=true&theme=radical&hide=stars,contribs&show=reviews&line_height=24" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=line-em&hide_border=true&show_icons=true&theme=radical&layout=compact" />
 
 <!-- 
 <div style="display: flex; gap: 20px; justify-content: center; align-items: center">
