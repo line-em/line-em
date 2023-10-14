@@ -1,7 +1,5 @@
 <div align="center">     
-    <h1 style="color: #F834BBFF !important; font-weight: bold">Hi there, I'm Aline! 👋</h1>
-<br/>
-    
+    <h1 style="color: #F834BBFF !important; font-weight: bold">Hi there, I'm Aline! 👋</h1>    
     [![ 💖 - Portfolio](https://img.shields.io/static/v1?label=+💖&message=Portfolio&color=F834BB&style=for-the-badge)](https://line-em-portfolio.netlify.app)
     
 <h2 style="color: #F834BBFF; font-weight: bold">Skills</h1>
