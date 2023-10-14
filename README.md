@@ -7,10 +7,12 @@
 [![ 💖 - Portfolio](https://img.shields.io/static/v1?label=+💖&message=Portfolio&color=F834BB&style=for-the-badge)](https://line-em-portfolio.netlify.app)
     
 
-<h2 style="color: #F834BBFF; font-weight: bold">Tech Stack</h1>
+<h2 style="color: #F834BBFF; font-weight: bold">Skills</h1>
 
-<img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,git,astro,styledcomponents,tailwind" />
+<img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,astro" /> 
+<strong>Currently Studying</strong>: Java, JUnit.
 
+<!-- tirei o git, tailwind e styled components -->
 
 <h2 style="color: #F834BBFF; font-weight: bold">Github Stats</h1>
 
