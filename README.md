@@ -1,7 +1,7 @@
 <div align="center">     
     <h1 style="color: #cba6f7 !important; font-weight: bold">Hi there! 👋</h1>    
     
-[![ 💖 - My Portfolio](https://img.shields.io/badge/message=Portfolio&color=cba6f7)](https://line-em-portfolio.netlify.app)
+[![ 💖 - My Portfolio](https://img.shields.io/static/message=Portfolio&color=cba6f7)](https://line-em-portfolio.netlify.app)
 
 
 
