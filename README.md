@@ -8,7 +8,29 @@
 
 <h2 style="color: #F834BBFF; font-weight: bold">Github Stats</h1>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=line-em&hide_border=true&show_icons=true&theme=radical&layout=compact" /> <img src="https://github-readme-stats.vercel.app/api?username=line-em&rank_icon=github&show_icons=true&theme=radical&hide=contribs&include_all_commits=true&count_private=true&line_height=24" /> 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=line-em&hide_border=true&show_icons=true&theme=neon&layout=compact"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=line-em&hide_border=true&show_icons=true&theme=buefy&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=line-em&hide_border=true&show_icons=true&theme=neon&layout=compact" />
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=line-em&rank_icon=github&show_icons=true&theme=neon&hide=contribs&include_all_commits=true&line_height=24"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=line-em&rank_icon=github&show_icons=true&theme=buefy&hide=contribs&include_all_commits=true&line_height=24&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=line-em&rank_icon=github&show_icons=true&theme=neon&hide=contribs&include_all_commits=true&line_height=24" />
+</picture>
+
 <!-- 
 <h2 style="color: #F834BBFF; font-weight: bold">I've worked with</h1>
 
